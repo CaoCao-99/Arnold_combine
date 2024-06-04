@@ -6,6 +6,7 @@ Train model using PERACT
 
 <p><strong>Grasp Model Training Progress</strong></p>
 <p>This section shows the progress of the grasp model at different training batches. The left image is at batch 0, and the right image is at batch 140,000. <br> <strong>GT: Brown head, Predict: Red head</strong></p>
+<p>For more images and details, visit the <a href="https://github.com/CaoCao-99/Arnold_combine/tree/main/Grasp_model/images">Grasp Model Image Directory</a>.</p>
 
 <table>
   <tr>
@@ -17,6 +18,7 @@ Train model using PERACT
 ## Manipulate Model
 <p><strong>Manipulate Model Training Progress</strong></p>
 <p>This section displays the progress of the manipulation model at different training batches. The left image is at batch 0, and the right image is at batch 180,000. <br> <strong>GT: Brown head, Predict: Red head</strong></p>
+<p>For more images and details, visit the <a href="https://github.com/CaoCao-99/Arnold_combine/tree/main/Manipulate_model/images">Manipulate Model Image Directory</a>.</p>
 
 <table>
   <tr>
