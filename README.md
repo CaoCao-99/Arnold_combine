@@ -5,7 +5,7 @@ ARNOLD Challenge using contiunal learning (grasp & manipulate)
 Train model using PERACT
 
 <p><strong>Grasp Model Training Progress</strong></p>
-<p>This section shows the progress of the grasp model at different training batches. The left image is at batch 0, and the right image is at batch 140,000.</p>
+<p>This section shows the progress of the grasp model at different training batches. The left image is at batch 0, and the right image is at batch 140,000. \n GT : Brown head  Predict : Red head</p>
 
 <table>
   <tr>
