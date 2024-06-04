@@ -1,11 +1,11 @@
 # Arnold_combine
-ARNOLD Challenge using contiunal learning (grasp & manipulate)
+ARNOLD Challenge using continual learning (grasp & manipulate)
 
-## Grasp model
+## Grasp Model
 Train model using PERACT
 
 <p><strong>Grasp Model Training Progress</strong></p>
-<p>This section shows the progress of the grasp model at different training batches. The left image is at batch 0, and the right image is at batch 140,000. \n GT : Brown head  Predict : Red head</p>
+<p>This section shows the progress of the grasp model at different training batches. The left image is at batch 0, and the right image is at batch 140,000. <br> <strong>GT: Brown head, Predict: Red head</strong></p>
 
 <table>
   <tr>
@@ -14,7 +14,10 @@ Train model using PERACT
   </tr>
 </table>
 
-## Manipulate
+## Manipulate Model
+<p><strong>Manipulate Model Training Progress</strong></p>
+<p>This section displays the progress of the manipulation model at different training batches. The left image is at batch 0, and the right image is at batch 180,000. <br> <strong>GT: Brown head, Predict: Red head</strong></p>
+
 <table>
   <tr>
     <td><img src="https://github.com/CaoCao-99/Arnold_combine/assets/88222336/c4606648-ace0-4532-9aed-7bb9ef4901c1" alt="Manipulate Model Batch 0" width="400"/><br><p align="center">Batch 0</p></td>
