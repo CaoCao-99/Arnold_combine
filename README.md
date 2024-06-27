@@ -1,7 +1,7 @@
 # ARNOLD Challenge: Continual Learning for Grasping and Manipulation
 <div style="display: flex; flex-direction: row;">
-    <img src="images/3rd.png" alt="3rd Place" width="300"/>
-    <img src="images/Arnold.png" alt="Arnold" width="600"/>
+    <img src="images/3rd.png" alt="3rd Place" width="200"/>
+    <img src="images/Arnold.png" alt="Arnold" width="400"/>
 </div>
 We participated in the ARNOLD Challenge and won 3rd place. 
 
