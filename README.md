@@ -1,6 +1,8 @@
 # ARNOLD Challenge: Continual Learning for Grasping and Manipulation
 <img src="images/3rd.png" alt="3rd Place" width="400"/>
-We are thrilled to announce that we placed 3rd in the ARNOLD Challenge, leveraging continual learning for grasping and manipulation tasks. Our model incorporates two key innovative ideas: Phase Specific Agents and State Interpolation for data augmentation, which significantly improved our performance metrics.
+We participated in the ARNOLD Challenge and won 3rd place. 
+
+Our model incorporates two key innovative ideas: Phase Specific Agents and State Interpolation for data augmentation, which significantly improved our performance metrics.
 
 
 ## Pipeline Overview
