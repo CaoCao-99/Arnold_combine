@@ -12,7 +12,7 @@ Our model incorporates two key innovative ideas: Phase Specific Agents and State
 Our model pipeline involves two major components: Phase Specific Agents and State Interpolation for Data Augmentation
 
 ## Phase Specific Agents
-<img src="images/PhaseSpecificAgents" alt="Phase Specific Agents" width="800"/>
+<img src="images/PhaseSpecificAgents.png" alt="Phase Specific Agents" width="800"/>
 We introduced Phase Specific Agents to our model, which resulted in a significant performance increase on the validation set from 32% to 45%. This approach involves creating specialized agents for different phases of the task, allowing for more precise and efficient learning.
 
 ### Grasp Model
