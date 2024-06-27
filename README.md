@@ -7,7 +7,7 @@ We are thrilled to announce that we placed 3rd in the ARNOLD Challenge, leveragi
 Our model pipeline involves two major components: Phase Specific Agents and State Interpolation for Data Augmentation
 
 ## Phase Specific Agents
-<img src="images/StateInterpolation.png" alt="3rd Place" width="400"/>
+<img src="images/StateInterpolation.png" alt="Phase Specific Agents" width="800"/>
 We introduced Phase Specific Agents to our model, which resulted in a significant performance increase on the validation set from 32% to 45%. This approach involves creating specialized agents for different phases of the task, allowing for more precise and efficient learning.
 
 ### Grasp Model
@@ -37,7 +37,7 @@ Train model using PERACT
 </table>
 
 ## State Interpolation for Data Augmentation
-<img src="images/StateInterpolation.png" alt="3rd Place" width="400"/>
+<img src="images/StateInterpolation.png" alt="State Interpolation" width="800"/>
 Our second innovation was the application of State Interpolation for data augmentation. This technique enhanced our model's ability to generalize, improving the test set performance from 22% to 31%. State Interpolation involves generating intermediate states between actual data points, effectively increasing the training data diversity.
 
 
