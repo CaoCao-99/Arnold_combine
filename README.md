@@ -1,6 +1,6 @@
 # ARNOLD Challenge: Continual Learning for Grasping and Manipulation
 <div style="display: flex; flex-direction: row;">
-    <img src="images/3rd.png" alt="3rd Place" width="400"/>
+    <img src="images/3rd.png" alt="3rd Place" width="300"/>
     <img src="images/Arnold.png" alt="Arnold" width="600"/>
 </div>
 We participated in the ARNOLD Challenge and won 3rd place. 
@@ -12,7 +12,7 @@ Our model incorporates two key innovative ideas: Phase Specific Agents and State
 Our model pipeline involves two major components: Phase Specific Agents and State Interpolation for Data Augmentation
 
 ## Phase Specific Agents
-<img src="images/StateInterpolation.png" alt="Phase Specific Agents" width="800"/>
+<img src="images/PhaseSpecificAgents" alt="Phase Specific Agents" width="800"/>
 We introduced Phase Specific Agents to our model, which resulted in a significant performance increase on the validation set from 32% to 45%. This approach involves creating specialized agents for different phases of the task, allowing for more precise and efficient learning.
 
 ### Grasp Model
