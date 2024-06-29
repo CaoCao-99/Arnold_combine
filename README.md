@@ -46,3 +46,19 @@ Train model using PERACT
 Our second innovation was the application of State Interpolation for data augmentation. This technique enhanced our model's ability to generalize, improving the test set performance from 22% to 31%. State Interpolation involves generating intermediate states between actual data points, effectively increasing the training data diversity.
 
 
+## Key Results
+By incorporating these two innovations, our model achieved the following improvements:
+
+- **Validation Set Performance:** Increased from 32% to 45%.
+- **Test Set Performance:** Increased from 22% to 31%.
+
+## Future Work
+While our current model has shown significant improvements, there are several areas for future work:
+
+1. **Exploring Additional Data Augmentation Techniques:** Investigating other data augmentation methods to further improve model generalization.
+2. **Fine-Tuning Phase Specific Agents:** Refining the specialization of phase-specific agents to handle more complex tasks.
+
+## Conclusion
+The ARNOLD Challenge provided an excellent platform to test and validate innovative approaches to continual learning in grasping and manipulation tasks. Our model's performance highlights the potential of Phase Specific Agents and State Interpolation for Data Augmentation in enhancing robotic manipulation capabilities.
+
+
